@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bugs>
+	<bug id="CAA0F1E1">
+		<description>Application crashes upon clicking the SAVE button while creating a new the user, hence unable to create a new user in the application.</description>
+        <impact>high</impact>
+		<created>20191108T175028Z</created>
+	</bug>
+	<bug id="07010BC0">
+		<description>About the company screen. Red strip on the top of the screen</description>
+        <impact>low</impact>
+		<created>20190912T092048Z</created>
+	</bug>
+    <bug id="BAA9D094">
+		<description>Login fails with a 500 error message on check-out page in Firefox, but works in Safari</description>
+        <impact>high</impact>
+		<created>20190711T233141Z</created>
+    </bug>
+    <bug id="3724B40B">
+		<description>App silently fails when invalid HTTPS certificate occurs.&#xA;Should display actual error</description>
+        <impact>high</impact>
+		<created>20180125T011030Z</created>
+    </bug>
+    <bug id="32205DD3">
+		<description>Error message when clicking the upgrade button on the pricing page.</description>
+        <impact>medium</impact>
+		<created>20180606T223544Z</created>
+    </bug>
+    <bug id="BC596462">
+		<description>Steps to reproduce:&#xA;1. Log in&#xA;2. Open chat dialog&#xA;3. Click on the 'Settings' button => Add user&#xA;4. Add any user to a group conversation&#xA;5. Try to rename this group conversation&#xA;&#xA;Actual result: the button "Rename conversation" is disabled</description>
+        <impact>medium</impact>
+		<created>20200916T063400Z</created>
+    </bug>
+    <bug id="642FF3AD">
+		<description>Layout issues in the 'Rules' screen.</description>
+        <impact>low</impact>
+		<created>20200519T154637Z</created>
+    </bug>
+    <bug id="75FA3882">
+		<description>When I remove an item from my shopping cart, I don't see the total order update</description>
+        <impact>high</impact>
+		<created>20190318T081845Z</created>
+    </bug>
+    <bug id="C3E10009">
+		<description>1. Go to the profile page&#xA;2. Enter username in login field&#xA;3. Enter incorrect password in password field&#xA;&#xA;Expected outcome: Login fails with error message "incorrect user name or password"&#xA;&#xA;Actual outcome: Login fails with "Incorrect Username"</description>
+        <impact>medium</impact>
+		<created>20180801T125006Z</created>
+    </bug>
+    <bug id="FE9DB874">
+		<description>The monthly revenue report is wrong.&#xA;&#xA;The report values don't align with with the daily/weekly report values.</description>
+        <impact>high</impact>
+		<created>20210524T180716Z</created>
+    </bug>
+    <bug id="2D5F1452">
+		<description>Wrong spelling in the heading 'Thes is our website!' on the landing page.</description>
+        <impact>low</impact>
+		<created>20180704T120105Z</created>
+    </bug>
+    <bug id="5CFBB5B8">
+		<description>1. Launch App > Messages > New Message.&#xA;2. Enter recipient and message but leave "Subject" blank.&#xA;3. Tap Attach > Image and choose image file&#xA;4. Tap Send&#xA;&#xA;Displays error: "Invalid format" when the only problem is missing Subject</description>
+        <impact>low</impact>
+		<created>20180330T054013Z</created>
+    </bug>
+    <bug id="E4FC82B4">
+		<description>The profile image doesn't load in the "Profile" section</description>
+        <impact>low</impact>
+		<created>20210820T024855Z</created>
+    </bug>
+    <bug id="FBC133A4">
+		<description>Did not recieve confirmation email while creating new account</description>
+        <impact>high</impact>
+		<created>20200729T114601Z</created>
+    </bug>
+    <bug id="02F067DC">
+		<description>Keep getting error while trying to update billing information&#xA;&#xA;Steps to reproduce:&#xA;1. Click on "My Profile" link&#xA;2. Select "Update billing information" link&#xA;3. All fields are disabled&#xA;&#xA;Weirdly, can still click submit button</description>
+        <impact>high</impact>
+		<created>20211124T122202Z</created>
+    </bug>
+    <bug id="DC83058C">
+		<description>Did not get a notification when someone reacted to my thread response&#xA;&#xA;Steps to reproduce:&#xA;1. User1 responds in a thread&#xA;2. User2 reacts to threaded post in 1&#xA;3. User1 does not see a notification on Web</description>
+        <impact>medium</impact>
+		<created>20210617T073139Z</created>
+    </bug>
+    <bug id="9CEC292E">
+		<description>When reviewing the "People who bought this item also bought" category in the Product page, it can be noticed that some of the items are missing their product image.</description>
+        <impact>medium</impact>
+		<created>20180131T100559Z</created>
+    </bug>
+    <bug id="33AEB8D3">
+		<description>Missing price in item&#xA;&#xA;steps:&#xA;* go to main product page&#xA;* go in the bottom of all products&#xA;* go to 3rd item and you will see $0.00</description>
+        <impact>medium</impact>
+		<created>20180521T012553Z</created>
+    </bug>
+    <bug id="CE50C5B5">
+		<description>Page gives "loadPayPRef" error when trying to purchase items using PayPal</description>
+        <impact>medium</impact>
+		<created>20210823T170444Z</created>
+    </bug>
+    <bug id="30C4B461">
+		<description>The main image on the homepage is distorted on the iPhone X.</description>
+        <impact>low</impact>
+		<created>20190628T232417Z</created>
+    </bug>
+    <bug id="938AC0D7">
+		<description>Correct the alignment and spacing of labels and toggle buttons under Settings-Preferences.</description>
+        <impact>low</impact>
+		<created>20190730T040538Z</created>
+    </bug>
+    <bug id="F70DD076">
+		<description>Product sorting changes price&#xA;&#xA;When sorting products based on manufacturer, resulting list has different prices for same products displayed before sorting</description>
+        <impact>high</impact>
+		<created>20210420T183511Z</created>
+    </bug>
+    <bug id="31EF56BC">
+		<description>The link for setting the user password that is sent upon registration is broken, thus making the whole registration process impossible.&#xA;&#xA;Steps:&#xA;1. Open the webstore&#xA;2. Begin the account registration process.&#xA;3. Click on the link that is sent by email&#xA;&#xA;The link takes the user to the "Lost Password" form</description>
+        <impact>high</impact>
+		<created>20210901T003419Z</created>
+    </bug>
+    <bug id="08CF9176">
+		<description>Outdated header image on "About" page</description>
+        <impact>low</impact>
+		<created>20190520T083339Z</created>
+    </bug>
+    <bug id="C8F17E51">
+		<description>Logo on main landing page is twice the size of text&#xA;&#xA;Not sure this is desired behavior</description>
+        <impact>low</impact>
+		<created>20180518T030338Z</created>
+    </bug>
+    <bug id="4349A5D6">
+		<description>Cannot add note to order</description>
+        <impact>high</impact>
+		<created>20190918T221428Z</created>
+    </bug>
+    <bug id="8623130E">
+		<description>When my cart contains one item, I am unable to add a second item via the "add to cart" button on the page.</description>
+        <impact>medium</impact>
+		<created>20210730T104655Z</created>
+    </bug>
+    <bug id="C446A696">
+		<description>Getting error "404. Page not found." when clicking FAQ link off of homepage</description>
+        <impact>low</impact>
+		<created>20180905T205558Z</created>
+    </bug>
+    <bug id="BF9912B3">
+		<description>Need to add option for sorting products by color</description>
+        <impact>low</impact>
+		<created>20180905T191625Z</created>
+    </bug>
+    <bug id="9C804B1C">
+		<description>Discount code doesn't work&#xA;&#xA;Entered the code, got no error on the page, checked out and was charged full price.</description>
+        <impact>medium</impact>
+		<created>20180430T010340Z</created>
+    </bug>
+    <bug id="EACD075E">
+		<description>Navigation menu is confusing. Don't know how to find contacts list</description>
+        <impact>low</impact>
+		<created>20180710T065948Z</created>
+    </bug>
+    <bug id="F4930273">
+		<description>"About" page does not work using screen reader software.&#xA;Needs to be updated</description>
+        <impact>low</impact>
+		<created>20180214T010549Z</created>
+    </bug>
+    <bug id="602E5196">
+		<description>When I click the "Sign in with Google account" link, the window closes and I must reopen the app.&#xA;&#xA;I get an error report that says "PlayOnLinux" crashed.</description>
+        <impact>high</impact>
+		<created>20180808T080116Z</created>
+    </bug>
+    <bug id="7BC17891">
+		<description>Can't add reviews to products&#xA;&#xA;Clicked the "Add Review" button, but nothing happens</description>
+        <impact>medium</impact>
+		<created>20200227T170231Z</created>
+    </bug>
+    <bug id="9B611842">
+		<description>When accessing the content explorer in the admin as TestSuperuser on the QA environment, selecting the create new documents icon is throwing an error message – “Cannot read content”.&#xA;&#xA;The other actions in the admin seem unaffected</description>
+        <impact>high</impact>
+		<created>20210614T074816Z</created>
+    </bug>
+    <bug id="A88BB12F">
+		<description>Uploading a JPEG file (Profile Picture) in the registration page crashes the system</description>
+        <impact>medium</impact>
+		<created>20180725T230534Z</created>
+    </bug>
+    <bug id="2E260378">
+		<description>Refreshing product listings crashes page on Safari</description>
+        <impact>high</impact>
+		<created>20190927T042149Z</created>
+    </bug>
+    <bug id="D3A205CD">
+		<description>Not all images load on home page when using Opera.&#xA;&#xA;Chrome/Firefox/Edge working fine.</description>
+        <impact>low</impact>
+		<created>20210113T223426Z</created>
+    </bug>
+    <bug id="B8E536F0">
+		<description>Broken links on tutorials page&#xA;&#xA;Easily half the links don't work</description>
+        <impact>low</impact>
+		<created>20210921T203805Z</created>
+    </bug>
+    <bug id="E6F5CB46">
+		<description>Timeout error when trying to confirm purchase&#xA;Shopping cart is full. I can see all items.&#xA;However, when I click on the "continue to purchase", the page goes idle for about 30 seconds and then shows a timeout error</description>
+        <impact>high</impact>
+		<created>20180510T103232Z</created>
+    </bug>
+    <bug id="497554BD">
+		<description>Unable to view different products on products page&#xA;&#xA;Keep getting "Please disable pop-up blocker" message.</description>
+        <impact>low</impact>
+		<created>20180523T030437Z</created>
+    </bug>
+    <bug id="458B708C">
+		<description>Can't send messages to more than one person&#xA;Steps to reproduce:&#xA;I. Open messages page&#xA;II. In the "To" field, add a username&#xA;III. Try to add another username but nothing happens.</description>
+        <impact>high</impact>
+		<created>20180510T074831Z</created>
+    </bug>
+    <bug id="B0966AF8">
+		<description>"View User Profile" returns incorrect information about user's location</description>
+        <impact>low</impact>
+		<created>20210120T021121Z</created>
+    </bug>
+    <bug id="C389F1B4">
+		<description>Can't open "Terms of Service" link on product page&#xA;The link appears to be dead.</description>
+        <impact>low</impact>
+		<created>20200710T182846Z</created>
+    </bug>
+    <bug id="2B533613">
+		<description>Product purchase page allows for invalid shipping date.&#xA;&#xA;Entered 2020-06-31 and it accepted.&#xA;&#xA;Note: there are only 30 days in June</description>
+        <impact>low</impact>
+		<created>20200427T063922Z</created>
+    </bug>
+    <bug id="F1870D68">
+		<description>Constantly getting signed out&#xA;&#xA;I am able to login using my username/password, but after searching for a few minutes I'm automatically logged out and have to sign back in</description>
+        <impact>high</impact>
+		<created>20210727T102304Z</created>
+    </bug>
+    <bug id="67CCA13D">
+		<description>Android problem&#xA;&#xA;Steps:&#xA;&#xA;1. Open a track with related Label&#xA;2. Tap on the Info icon (top right corner)&#xA;3. Tap on Lavel name, nothing happens&#xA;&#xA;Expected behavior: Label screen should be opened</description>
+        <impact>medium</impact>
+		<created>20190401T110230Z</created>
+    </bug>
+    <bug id="8A97510A">
+		<description>Package shipping information being displayed using wrong time zone</description>
+        <impact>low</impact>
+		<created>20180806T064802Z</created>
+    </bug>
+    <bug id="8C727B03">
+		<description>Can't reset password&#xA;&#xA;Password reset page says it has sent email, but never receieve email</description>
+        <impact>high</impact>
+		<created>20210924T051020Z</created>
+    </bug>
+    <bug id="5A60F0C7">
+		<description>Unidentified product is being added to the cart after gift wrapping option was selected.</description>
+        <impact>medium</impact>
+		<created>20180219T081019Z</created>
+    </bug>
+</bugs>
